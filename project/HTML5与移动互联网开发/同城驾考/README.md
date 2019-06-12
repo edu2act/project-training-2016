@@ -28,21 +28,20 @@
 
 ### 效果图
 
-![驾照类型页](./image/驾照类型页.png)
+<p>
+<img src="./image/驾照类型页.png" width=250 height=400 />
+<img src="./image/首页.png" width=250 height=400 />
+<img src="./image/题库页.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/我的页.png" width=250 height=400 />
+<img src="./image/搜索页.png" width=250 height=400 />
+<img src="./image/驾校详情页.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/关于页.png" width=250 height=400 />
+<img src="./image/做题页.png" width=250 height=400 />
+<img src="./image/错题页.png" width=250 height=400 />
+</p>
 
-![首页](./image/首页.png)
-
-![题库页](./image/题库页.png)
-
-![我的页](./image/我的页.png)
-
-![搜索页](./image/搜索页.png)
-
-![驾校详情页](./image/驾校详情页.png)
-
-![关于页](./image/关于页.png)
-
-![做题页](./image/做题页.png)
-
-![错题页](./image/错题页.png)
 

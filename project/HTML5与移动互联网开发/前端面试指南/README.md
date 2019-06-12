@@ -34,27 +34,19 @@
 
 ### 项目截图
 
-<p>
+
 <img src="./image/denglu.png" width=1920 height=1080 />
 <img src="./image/gengduo.png" width=1920 height=1080 />
 <img src="./image/neirong.png" width=1920 height=1080 />
-</p>
-<p>
 <img src="./image/pinglun.png" width=1920 height=1080 />
 <img src="./image/sousuo.png" width=1920 height=1080 />
 <img src="./image/wenzhang.png" width=1920 height=1080 />
-</p>
-<p>
 <img src="./image/xiangqing.png" width=1920 height=1080 />
 <img src="./image/xiewenzhang.png" width=1920 height=1080 />
 <img src="./image/yonghu.png" width=1920 height=1080 />
-</p>
-<p>
 <img src="./image/yonghuxiangqing.png" width=1920 height=1080 />
 <img src="./image/zhuce.png" width=1920 height=1080 />
 <img src="./image/zhuanti.png" width=1920 height=1080 />
-</p>
-<p>
 <img src="./image/zhuye.png" width=1920 height=1080 />
 <img src="./image/文集.png" width=1920 height=1080 />
-</p>
+

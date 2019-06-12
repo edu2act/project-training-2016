@@ -26,38 +26,18 @@
 
 ### 项目截图
 
-##### 登陆：
-
-![](.\image\login.jpg)
-
-##### 首页：
-
-![](.\image\index.jpg)
-
-##### 搜索：
-
-![](.\image\search.jpg)
-
-##### 详情：
-
-![](.\image\details.jpg)
-
-##### 编写：
-
-![](.\image\write.jpg)
-
-###### 编辑：
-
-![](.\image\edit.jpg)
-
-##### 删除：
-
-![](.\image\delete.jpg)
-
-###### 图片识别：
-
-![](.\image\recognize.png)
-
-##### 我的：
-
-![](.\image\mine.jpg)
+<p>
+<img src="./image/login.jpg" width=250 height=400 />
+<img src="./image/index.jpg" width=250 height=400 />
+<img src="./image/search.jpg" width=250 height=400 />
+</p>
+<p>
+<img src="./image/details.jpg" width=250 height=400 />
+<img src="./image/write.jpg" width=250 height=400 />
+<img src="./image/edit.jpg" width=250 height=400 />
+</p>
+<p>
+<img src="./image/delete.jpg" width=250 height=400 />
+<img src="./image/recognize.jpg" width=250 height=400 />
+<img src="./image/mine.jpg" width=250 height=400 />
+</p>

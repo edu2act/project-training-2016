@@ -35,22 +35,35 @@
 <img src="./image/热门城市-北京.png" width=250 height=400 />
 <img src="./image/热门城市-上海.png" width=250 height=400 />
 </p>
+
 <p>
 <img src="./image/目的地.png" width=250 height=400 />
 <img src="./image/亚洲和欧洲板块.png" width=250 height=400 />
 <img src="./image/中国板块.png" width=250 height=400 />
 </p>
+
 <p>
-<img src="./image/攻略推荐.png" width=250 height=400 />
+<img src="./image/攻略推荐.jpg" width=250 height=400 />
 <img src="./image/全部攻略.png" width=250 height=400 />
-<img src="./image/旅行咨询.png" width=250 height=400 />
+<img src="./image/旅游资讯.png" width=250 height=400 />
 </p>
+
 <p>
-<img src="./image/成都攻略推荐.png" width=250 height=400 />
+<img src="./image/成都攻略介绍.png" width=250 height=400 />
 <img src="./image/北京攻略介绍.png" width=250 height=400 />
 <img src="./image/桂林攻略介绍.png" width=250 height=400 />
 </p>
+
 <p>
 <img src="./image/我的页面.png" width=250 height=400 />
 </p>
 
+### 项目管理
+
+<p>
+<img src="./image/github.png" />
+</p>
+
+<p>
+<img src="./image/readmine.png" />
+</p>
