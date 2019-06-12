@@ -38,3 +38,21 @@
 <img src="./image/图表样式展示1.png" />
 <img src="./image/图标样式展示2.png"  />
 <img src="./image/图表样式展示3.png" />
+
+### 项目管理
+
+#### Redmine - 王子龙
+
+<img src="./image/Redmine王子龙.png" />
+
+#### Redmine - 李悦
+
+<img src="./image/Redmine李悦.png" />
+
+#### Redmine - 李欣芸
+
+<img src="./image/Redmine李欣芸.png" />
+
+#### Redmine - 郝芸婷
+
+<img src="./image/Redmine郝芸婷.png" />

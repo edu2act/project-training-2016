@@ -34,19 +34,18 @@
 
 ### 项目截图
 
-
-<img src="./image/denglu.png" width=1920 height=1080 />
-<img src="./image/gengduo.png" width=1920 height=1080 />
-<img src="./image/neirong.png" width=1920 height=1080 />
-<img src="./image/pinglun.png" width=1920 height=1080 />
-<img src="./image/sousuo.png" width=1920 height=1080 />
-<img src="./image/wenzhang.png" width=1920 height=1080 />
-<img src="./image/xiangqing.png" width=1920 height=1080 />
-<img src="./image/xiewenzhang.png" width=1920 height=1080 />
-<img src="./image/yonghu.png" width=1920 height=1080 />
-<img src="./image/yonghuxiangqing.png" width=1920 height=1080 />
-<img src="./image/zhuce.png" width=1920 height=1080 />
-<img src="./image/zhuanti.png" width=1920 height=1080 />
-<img src="./image/zhuye.png" width=1920 height=1080 />
-<img src="./image/文集.png" width=1920 height=1080 />
+<img src="./image/denglu.png" width=600 height=400 />
+<img src="./image/gengduo.png" width=600 height=400 />
+<img src="./image/neirong.png" width=600 height=400 />
+<img src="./image/pinglun.png" width=600 height=400 />
+<img src="./image/sousuo.png" width=600 height=400 />
+<img src="./image/wenzhang.png" width=600 height=400 />
+<img src="./image/xiangqing.png" width=600 height=400 />
+<img src="./image/xiewenzhang.png" width=600 height=400 />
+<img src="./image/yonghu.png" width=600 height=400 />
+<img src="./image/yonghuxiangqing.png" width=600 height=400 />
+<img src="./image/zhuce.png" width=600 height=400 />
+<img src="./image/zhuanti.png" width=600 height=400 />
+<img src="./image/zhuye.png" width=600 height=400 />
+<img src="./image/文集.png" width=600 height=400 />
 

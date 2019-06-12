@@ -34,15 +34,22 @@
 
 ### 运行效果
 
-![登录](image/login.png)<br> 
-![注册](image/res.png)<br> 
-![首页](image/home.png)<br> 
-![详情](image/xiangqing.png)<br>
-![评论](image/pinglun.png)<br>  
-分享页修改中<br> 
-![分享](image/about.png)<br> 
-![文章](image/about2.png)<br> 
-![消息](image/tips.png)<br> 
-![我的](image/my.png)<br> 
-![收藏](image/shoucang.png)<br>
-![个人](image/my-data.png)
+<p>
+<img src="./image/login.png" width=250 height=400 />
+<img src="./image/res.png" width=250 height=400 />
+<img src="./image/home.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/xiangqing.png" width=250 height=400 />
+<img src="./image/pinglun.png" width=250 height=400 />
+<img src="./image/about.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/about2.png" width=250 height=400 />
+<img src="./image/tips.png" width=250 height=400 />
+<img src="./image/my.png" width=250 height=400 />
+</p>
+<p>
+<img src="./image/shoucang.png" width=250 height=400 />
+<img src="./image/my-data.png" width=250 height=400 />
+</p>

@@ -38,6 +38,6 @@
 </p>
 <p>
 <img src="./image/delete.jpg" width=250 height=400 />
-<img src="./image/recognize.jpg" width=250 height=400 />
+<img src="./image/recognize.png" width=250 height=400 />
 <img src="./image/mine.jpg" width=250 height=400 />
 </p>
