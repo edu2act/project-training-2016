@@ -4,6 +4,12 @@
 
 ## 《营养品盘》 - HTML5与移动互联网开发方向
 
+### 项目地址
+
+- Github : [https://github.com/liqilin1996/yingyangpinpan](https://github.com/liqilin1996/yingyangpinpan)
+
+
+
 ### 项目简介
 
 营养拼盘是通过微信小程序为当代任何人士解决饮食营养不平衡、不健康的问题的项目。
