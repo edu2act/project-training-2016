@@ -4,7 +4,7 @@
 
 ## 《人人帮》 -  Java与移动智能设备开发方向
 
-<img src="./image/logo.png" width=250 height=400 />
+<img src="./image/logo.png" width=100 height=100 />
 
 ###  项目简介
 
