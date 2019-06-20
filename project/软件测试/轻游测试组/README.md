@@ -4,7 +4,7 @@
 
 ## 《轻游测试组》 - 软件测试方向
 
-###  项目简介
+### 项目简介
 
 轻游是一款“旅游攻略型App”——衣食住行，样样行！
 
@@ -12,36 +12,36 @@
 
 针对于app的四大模块及附属子模块进行功能和性能测试。
 
-### 项目地址
+### 项目地址
 
 - Github：[https://github.com/DiaoZHAZHA/QingYou-2016appTest](https://github.com/DiaoZHAZHA/QingYou-2016appTest)
 
-### 项目成员
+### 项目成员
 
 
 - 韦士杰（项目经理、UI设计师、测试工程师）
-	- Email：827848183@qq.com 
-	- Github：
+	- Email：827848183@qq.com 
+	- Github：
 
-- 王鹏赫（市场总监、UI设计师、测试工程师）
-	- Email：2240024073 @qq.com  - 
-	- Github：
+- 王鹏赫（市场总监、UI设计师、测试工程师）
+	- Email：2240024073 @qq.com 
+	- Github：
 
-- 王得润（技术总监、UI设计师、测试工程师）
-	- Email：727075670@qq.com
-	- Github：
+- 王得润（技术总监、UI设计师、测试工程师）
+	- Email：727075670@qq.com
+	- Github：
 
-- 韦宇杰（技术总监、UI设计师、测试工程师）
-	- Email：11335395@qq.com
-	- Github：
+- 韦宇杰（技术总监、UI设计师、测试工程师）
+	- Email：11335395@qq.com
+	- Github：
 
-- 马瑞华（产品经理、UI设计师、测试工程师）
-	- Email：763409173@qq.com
-	- Github：
+- 马瑞华（产品经理、UI设计师、测试工程师）
+	- Email：763409173@qq.com
+	- Github：
 
-- 刘振扬（产品经理、UI设计师、测试工程师）
-	- Email：3466589527@qq.com
-	- Github：
+- 刘振扬（产品经理、UI设计师、测试工程师）
+	- Email：3466589527@qq.com
+	- Github：
 
 - 刁立翔（质量专家、UI设计师、测试工程师）
 	- Email：419060143@qq.com

@@ -92,12 +92,12 @@
 <img src="./image/测试代码/Solar-testPersonal-提醒设置-铃声类型.png" width=250 />
 <img src="./image/测试代码/Solar-PersonalPage-注册新用户.png" width=250 />
 </p>
-
 <p>
-<img src="./image/测试代码/Solar-testPersonal-注册登录置.png" width=250 />
+<img src="./image/测试代码/Solar-testPersonal-注册登录.png" width=250 />
 <img src="./image/测试代码/Solar-PersonalPage-忘记密码.png" width=250 />
 <img src="./image/测试代码/Linear-SportPage.png" width=250 />
 </p>
+
 
 <p>
 <img src="./image/测试代码/Linear-testSport.png" width=250 />
