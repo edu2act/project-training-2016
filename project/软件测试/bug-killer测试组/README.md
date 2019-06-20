@@ -83,8 +83,8 @@
 
 <p>
 <img src="./image/测试代码/Solar-testTask-删除任务.png" width=250 />
-<img src="./image/测试代码Solar-PersonalPage_切换账号.png" width=250 />
-<img src="./image/测试代码Solar-testPersonal-切换账号.png" width=250 />
+<img src="./image/测试代码/Solar-PersonalPage_切换账号.png" width=250 />
+<img src="./image/测试代码/Solar-testPersonal-切换账号.png" width=250 />
 </p>
 
 <p>

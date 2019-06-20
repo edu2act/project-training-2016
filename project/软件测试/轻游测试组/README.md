@@ -20,32 +20,32 @@
 
 
 - 韦士杰（项目经理、UI设计师、测试工程师）
-  - Email：827848183@qq.com 
-  - Github：
+	- Email：827848183@qq.com 
+	- Github：
 
 - 王鹏赫（市场总监、UI设计师、测试工程师）
-  - Email：2240024073 @qq.com  - 
-  - Github：
+	- Email：2240024073 @qq.com  - 
+	- Github：
 
 - 王得润（技术总监、UI设计师、测试工程师）
-  - Email：727075670@qq.com
-  - Github：
+	- Email：727075670@qq.com
+	- Github：
 
 - 韦宇杰（技术总监、UI设计师、测试工程师）
-  - Email：11335395@qq.com
-  - Github：
+	- Email：11335395@qq.com
+	- Github：
 
 - 马瑞华（产品经理、UI设计师、测试工程师）
-  - Email：763409173@qq.com
-  - Github：
+	- Email：763409173@qq.com
+	- Github：
 
 - 刘振扬（产品经理、UI设计师、测试工程师）
-  - Email：3466589527@qq.com
-  - Github：
+	- Email：3466589527@qq.com
+	- Github：
 
 - 刁立翔（质量专家、UI设计师、测试工程师）
-   - Email：419060143@qq.com
-   - Github：
+	- Email：419060143@qq.com
+	- Github：
 
 ### 项目截图
 

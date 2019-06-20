@@ -51,9 +51,9 @@
 - 该模式下，创建四个包：base、pages、testcases、utils，在base包中放入BasePrepare类，实现启动和关闭App的功能。utils包中放入操作动作的Action类（例如拖拽、滑动等）。
 
 <p>
-<img src="./image/Java测试框架.png" width=181 height=104 />
-<img src="./image/BaseProp.png" width=415 height=300 />
-<img src="./image/Action类.png" width=304 height=300 />
+<img src="./image/Java测试框架.png" width=120/>
+<img src="./image/BaseProp.png" width=330 height=300 />
+<img src="./image/Action类.png" width=300 height=300 />
 </p>
 
 - pages中根据各页面进行分类，写入每个页面元素的获取和对应的操作，以简化测试用例的编写。
@@ -65,17 +65,17 @@
 </p>
 
 <p>
-<img src="./image/模块_xxy.png" width=300 height=169 />
-<img src="./image/login_xxy.png" width=300 height=169 />
-<img src="./image/create_xxy.png" width=300 height=169/>
+<img src="./image/模块_xxy.png" width=250 />
+<img src="./image/login_xxy.png" width=250 />
+<img src="./image/create_xxy.png" width=250 />
 </p>
 
 - testcases中存放测试用例，根据系统的功能模块划分，实现具体的业务操作。
 
 <p>
-<img src="./image/testcases.png" width=118 height=300 />
-<img src="./image/loginTest.png" width=401 height=300 />
-<img src="./image/createTest.png" width=395 height=300 />
+<img src="./image/testcases.png" width=120 height=300 />
+<img src="./image/loginTest.png" width=300 height=300 />
+<img src="./image/createTest.png" width=300 height=300 />
 </p>
 
 ##### Appium-数据驱动模式
@@ -103,23 +103,23 @@
 </p>
 
 <p>
-<img src="./image/register_xxy.png" width=300 height=169 />
-<img src="./image/Me_xxy.png" width=300 height=169 />
-<img src="./image/rank_xxy.png" width=300 height=169 />
+<img src="./image/register_xxy.png" width=250  />
+<img src="./image/Me_xxy.png" width=250  />
+<img src="./image/rank_xxy.png" width=250 />
 </p>
 
 - utils包中存放数据驱动类(txt格式和excel格式)以实现大量数据进行测试，使用testNg实现测试失败则截屏并发送邮件的功能。
 
 <p>
-<img src="./image/D_txt.png" width=285 height=300 />
-<img src="./image/D_excel.png" width=234 height=300 />
-<img src="./image/D_数据驱动.png" width=381 height=182 />
+<img src="./image/D_txt.png" width=250  />
+<img src="./image/D_excel.png" width=250 />
+<img src="./image/D_数据驱动.png" width=250 />
 </p>
 
 <p>
-<img src="./image/testng监听器.png" width=278 height=300 />
-<img src="./image/D_截屏.png" width=420 height=300 />
-<img src="./image/testng发送邮件.png" width=202 height=218 />
+<img src="./image/testng监听器.png" width=250 />
+<img src="./image/D_截屏.png"  width=250 />
+<img src="./image/testng发送邮件.png"  width=250 />
 </p>
 
 ##### uiautomator
@@ -163,29 +163,32 @@ BugFree是一个对bug进行在线管理的网站
 
 ### 项目截图
 
+- bugfree3.0.3登录界面
+- bugfree.3.0.3的bug管理界面
 <p>
 <img src="./image/bugfree3.0.3登录界面.png" width=350 height=250 />
 <img src="./image/bugfree3.0.3的bug管理界面.png" width=350 height=250 />
 </p>
 
-<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp bugfree3.0.3登录界面 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp bugfree.3.0.3的bug管理界面
-</p>
+- bugfree3.0.3的新建bug界面
+- bugfree.3.0.3的case管理界面
 
 <p>
 <img src="./image/bugfree3.0.3新建bug界面.png" width=350 height=250 />
 <img src="./image/bugfree3.0.3的case界面.png" width=350 height=250 />
 </p>
 
-<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp bugfree3.0.3的新建bug界面 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp bugfree.3.0.3的case管理界面
-</p>
+- bugfree3.0.3新建case界面 
+- bugfree.3.0.3的result管理界面
 
 <p>
 <img src="./image/bugfree3.0.3新建case界面.png" width=350 height=250 />
 <img src="./image/bugfree3.0.3的result界面.png" width=350 height=250 />
 </p>
 
-<p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp bugfree3.0.3新建case界面 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp bugfree.3.0.3的result管理界面
-</p>
+- LoadRunner的主界面
+- LoadRunner中new bug脚本,通过VuGen录制
+- LoadRunner中new case脚本，通过VuGen录制
 
 <p>
 <img src="./image/LR主界面.png" width=250 height=250 />
@@ -193,88 +196,53 @@ BugFree是一个对bug进行在线管理的网站
 <img src="./image/LR的new case脚本.png" width=250 height=250 />
 </p>
 
-<p>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-LoadRunner的主界面
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-LoadRunner中new bug脚本,通过VuGen录制
-&nbsp &nbsp 
-LoadRunner中new case脚本，通过VuGen录制
-</p>
+- LoadRunner的Controller界面用于场景设计 
+- LoadRunner中new case脚本，30并发量得到的压力测试报告中错误率的图表，是通过LoadRunner中Analysis组件实现的
 
 <p>
 <img src="./image/LR的Controller.png" width=350 height=250 />
 <img src="./image/new case错误率.png" width=350 height=250 />
 </p>
 
-<p>
-&nbsp &nbsp
-LoadRunner的Controller界面用于场景设计 
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-LoadRunner中new case脚本，30并发量得到的压力测试报告中错
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-误率的图表，是通过LoadRunner中Analysis组件实现的
-</p>
+- LoadRunner中new case脚本，30并发量得到的压力测试报告中点击率的图表，是通过LoadRunner中Analysis组件实现的
+- LoadRunner中new case脚本，30并发量得到的压力测试报告中吞吐量的图表，是通过LoadRunner中Analysis组件实现的
 
 <p>
 <img src="./image/new case30点击率.png" width=350 height=250 />
 <img src="./image/new case30吞吐量.png" width=350 height=250 />
 </p>
 
-<p>
-&nbsp &nbsp 
-LoadRunner中new case脚本，30并发量得到的压力测试报告中点
-&nbsp &nbsp &nbsp &nbsp 
-LoadRunner中new case脚本，30并发量得到的压力测试报告中吞
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-击率的图表，是通过LoadRunner中Analysis组件实现的
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-吐量的图表，是通过LoadRunner中Analysis组件实现的
-</p>
+- Badboy脚本录制1 
+- Badboy脚本录制2
 
 <p>
 <img src="./image/Badboy脚本录制.png" width=350 height=250 />
 <img src="./image/Badboy脚本录制2.png" width=350 height=250 />
 </p>
 
-<p>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-Badboy脚本录制1 
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-Badboy脚本录制2
-</p>
+- JMeter的场景设计界面 
+- JMeter登录脚本界面
 
 <p>
 <img src="./image/JMeter场景设计.png" width=350 height=250 />
 <img src="./image/JMeter登录脚本.png" width=350 height=250 />
 </p>
 
-<p>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-JMeter的场景设计界面 
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp 
-JMeter登录脚本界面
-</p>
+- JMeter的new bug脚本界面 
+- JMeter的new case脚本界面
 
 <p>
 <img src="./image/JMeter的new bug脚本.png" width=350 height=250 />
 <img src="./image/JMeter的new case脚本.png" width=350 height=250 />
 </p>
 
-<p>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-JMeter的new bug脚本界面 
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp 
-JMeter的new case脚本界面
-</p>
+- 使用JMeter对脚本进行并发执行，并发量为100，事务为50%用户登录，30%写影评，20%做回复
 
 <p>
 <img src="./image/JMeter并发100.jpg"/>
 </p>
 
-<p>使用JMeter对脚本进行并发执行，并发量为100，事务为50%用户登录，30%写影评，20%做回复</p>
-
+- 使用JMeter对脚本进行并发执行，并发量为100，事务为50%用户登录，30%写影评，20%做回复
 
 <img src="./image/JMeter并发200.jpg" width=800 height=200/>
 
-<p>使用JMeter对脚本进行并发执行，并发量为100，事务为50%用户登录，30%写影评，20%做回复</p>

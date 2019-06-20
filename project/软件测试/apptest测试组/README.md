@@ -17,25 +17,31 @@
 
 - 刘宸（项目组长、测试工程师）
   - Email：[825147384@qq.com](mailto:825147384@qq.com) 
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/liuchen](https://github.com/liuchen0510/apptest/tree/master/liuchen)
+  - Github：
+
 - 刘海新（测试工程师）
   - Email：[3430198340@qq.com](mailto:3430198340@qq.com)
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/liuhaixin](https://github.com/liuchen0510/apptest/tree/master/liuhaixin)
+  - Github：
+
 - 杨凯静（测试工程师）
   - Email：[2939479023@qq.com](mailto:2939479023@qq.com)
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/yangkaijing](https://github.com/liuchen0510/apptest/tree/master/yangkaijing)
+  - Github：
+
 - 王浩馨（测试工程师）
   - Email：[664852088@qq.com](mailto:664852088@qq.com)
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/wanghaoxin](https://github.com/liuchen0510/apptest/tree/master/wanghaoxin)
+  - Github：
+
 - 秦一诺（测试工程师）
   - Email：[562938990@qq.com](mailto:562938990@qq.com)
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/qinyinuo](https://github.com/liuchen0510/apptest/tree/master/qinyinuo)
+  - Github：
+
 - 于俊伟（测试工程师）
   - Email：[1364356401@163.com](mailto:1364356401@163.com)
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/yujunwei](https://github.com/liuchen0510/apptest/tree/master/yujunwei)
--陈若繁（测试工程师）
+  - Github：
+
+- 陈若繁（测试工程师）
   - Email：[1297985138@163.com](mailto:1297985138@163.com)
-  - Github：[https://github.com/liuchen0510/apptest/tree/master/chenruofan](https://github.com/liuchen0510/apptest/tree/master/chenruofan)
+  - Github：
 
 ### 项目截图
 
