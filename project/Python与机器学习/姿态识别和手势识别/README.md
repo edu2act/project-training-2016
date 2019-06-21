@@ -21,12 +21,12 @@
 
 ### 项目截图
 
-![](image\部分代码.png)
+![](./image/部分代码.png)
 
-![权重](image\权重.png)
+![权重](./image/权重.png)
 
-![体态识别](image\体态识别.png)
+![体态识别](./image/体态识别.png)
 
-![响应结果](image\响应结果.png)
+![响应结果](./image/响应结果.png)
 
-![](image\手势识别视频.png)
+![](./image/手势识别视频.png)
